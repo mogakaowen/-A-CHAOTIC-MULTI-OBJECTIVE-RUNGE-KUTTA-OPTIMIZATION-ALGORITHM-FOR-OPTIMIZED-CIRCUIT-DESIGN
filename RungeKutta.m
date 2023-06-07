@@ -1,3 +1,5 @@
+%Searching Mechanism
+%Owen Mogaka Nyandieka, Department of Electrical and Information Engineering University Of Nairobi
 function SM=RungeKutta(XB,XW,DelX)
 
 dim=size(XB,2);

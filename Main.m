@@ -1,3 +1,5 @@
+%RUN and CRUN main Code
+%Owen Mogaka Nyandieka, Department of Electrical and Information Engineering University Of Nairobi
 clear 
 close all
 clc

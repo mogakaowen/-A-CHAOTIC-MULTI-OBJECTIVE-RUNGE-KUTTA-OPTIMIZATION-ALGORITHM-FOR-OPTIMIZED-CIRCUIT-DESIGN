@@ -1,3 +1,5 @@
+%Main code for testing benchmark functions
+%Owen Mogaka Nyandieka, Department of Electrical and Information Engineering University Of Nairobi
 clc;
 % Define problem-specific variables
 nP = 50;    % population size
@@ -11,7 +13,7 @@ for i=1:10
 end
 
 % Define the objective function
-Func_name='F21';
+Func_name='F1';
 
 [lb,ub,dim,fobj] = BenchmarkFunctions2(Func_name);
 

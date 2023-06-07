@@ -1,3 +1,4 @@
+%Chaotic maps
 function O=chaos(index,max_iter,Value)
 
 O=zeros(1,max_iter);

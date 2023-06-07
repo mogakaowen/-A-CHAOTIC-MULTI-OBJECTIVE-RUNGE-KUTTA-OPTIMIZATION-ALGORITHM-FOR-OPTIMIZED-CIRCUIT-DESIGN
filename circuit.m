@@ -1,3 +1,5 @@
+%Circuit Design MATLAB Code
+%Owen Mogaka Nyandieka, Department of Electrical and Information Engineering University Of Nairobi
 function CCTDesign=circuit(~)
 % Define the component value ranges
 Rin_range = [5000, 15000]; % Input impedance (ohm)

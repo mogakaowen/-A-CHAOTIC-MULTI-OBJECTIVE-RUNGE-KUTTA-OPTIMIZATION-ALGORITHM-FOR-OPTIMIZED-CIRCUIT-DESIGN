@@ -1,3 +1,5 @@
+%Benchmark Test Functions for CMRUN
+%Owen Mogaka Nyandieka, Department of Electrical and Information Engineering University Of Nairobi
 function [lb,ub,dim,fobj] = BenchmarkFunctions2(F)
 
 D=30;

@@ -1,3 +1,5 @@
+%CMRUN MATLAB Code
+%Owen Mogaka Nyandieka, Department of Electrical and Information Engineering University Of Nairobi
 function [Best_Cost,Best_X,Convergence_curve]=CMRUN(nP,MaxIt,lb,ub,dim,fobj,ChaosVec)
 
 % Define the number of objectives
