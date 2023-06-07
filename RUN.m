@@ -1,3 +1,4 @@
+%RUN MATLAB Code
 function [Best_Cost,Best_X,Convergence_curve]=RUN(nP,MaxIt,lb,ub,dim,fobj)
 
 Cost=zeros(nP,1);                % Record the Fitness of all Solutions
