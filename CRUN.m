@@ -1,3 +1,5 @@
+%CRUN MATLAB Code
+%Owen Mogaka Nyandieka, Department of Electrical and Information Engineering University Of Nairobi
 function [Best_Cost,Best_X,Convergence_curve]= CRUN(nP,MaxIt,lb,ub,dim,fobj)
 
 Cost=zeros(nP,1);                % Record the Fitness of all Solutions
